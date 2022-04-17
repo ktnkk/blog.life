@@ -1,5 +1,5 @@
 {
-  "name": "life",
+  "name": "blog.life",
   "private": true,
   "devDependencies": {
     "commitizen": "^4.2.4",
